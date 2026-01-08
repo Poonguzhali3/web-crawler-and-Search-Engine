@@ -68,4 +68,3 @@ This project implements a web crawler and search engine using Python. It collect
 
 
 
-## 📂 Project Structure
